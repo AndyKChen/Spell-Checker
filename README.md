@@ -3,6 +3,6 @@ Made using distribution code from the Harvard CS50 course. Learned how to use po
 
 Texts folder contains sample texts that can be spell checked, and the keys folder holds corresponding answers for verification. 
 
-Link to problem: https://cs50.harvard.edu/x/2020/psets/5/speller/
-Link to ranking for running time: https://speller.cs50.net/cs50/problems/2020/x/challenges/speller
-Link to Good C Data Structure Explanation: https://stackoverflow.com/questions/31930046/what-is-a-hash-table-and-how-do-you-make-it-in-c
+Link to problem: https://cs50.harvard.edu/x/2020/psets/5/speller/ <br?
+Link to ranking for running time: https://speller.cs50.net/cs50/problems/2020/x/challenges/speller <br>
+Link to Good C Data Structure Explanation: https://stackoverflow.com/questions/31930046/what-is-a-hash-table-and-how-do-you-make-it-in-c <br>
